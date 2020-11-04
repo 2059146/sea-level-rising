@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+ <head>
+    <meta charset="utf-8">
+    <title>環境STATION</title>
+    <link rel="stylesheet" href="stylesheet.css">
+ </head>
+ <body>
+     <h1>環境STATION</h1>
+     <p>※主に地球温暖化について取り上げます</P>
+ </body>
+</html>
+<div class="header">
+ <div class="header-logo">Kind of 環境</div>
+ <div class="header-list">
+    <ul>
+      li{
+        list-style:none;
+        float: left;
+         }
+      <li>排気ガスについて</li>
+      <li>工場について</li>
+      <li>海面上昇について</li>
+    </ul>
+</div>
